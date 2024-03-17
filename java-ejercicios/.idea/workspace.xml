@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04114a9a-f427-4bc7-996b-ed4b62232c31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/bussines/mapper/implMapper/AdministradorMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/bussines/mapper/implMapper/ClienteMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/bussines/services/AdministradorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/bussines/services/ClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/bussines/services/ProveedorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/bussines/servicesImpl/AdministradorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/bussines/servicesImpl/ClienteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/bussines/servicesImpl/ProveedorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/dto/administrador/AdministradorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/dto/administrador/CrearAdministradorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/dto/cliente/ClienteDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/dto/cliente/ClientePedidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/dto/cliente/CrearClienteDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/dto/proveedor/CrearProveedorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/dto/proveedor/ProveedorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/entity/Proveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/entity/enums/EstadoPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/entity/user/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/entity/user/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/domain/entity/user/Proveedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/persistence/repository/AdministradorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/persistence/repository/ClienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/main/java/com/mk/pizzaexpress/persistence/repository/ProveedorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/test/java/com/mk/pizzaexpress/bussines/servicesImpl/AdministradorServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/test/java/com/mk/pizzaexpress/bussines/servicesImpl/ClienteServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pizzaexpress/src/test/java/com/mk/pizzaexpress/bussines/servicesImpl/ProveedorServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tecnico/Tecnico/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2doblYxfYX3Fgd1L0SaKTvVvMC5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04114a9a-f427-4bc7-996b-ed4b62232c31" name="Changes" comment="" />
+      <created>1710677536112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710677536112</updated>
+    </task>
+    <servers />
+  </component>
+</project>
